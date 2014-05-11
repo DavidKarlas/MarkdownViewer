@@ -1,0 +1,7 @@
+<AddinProject appVersion="5.0">
+	<Project platforms="Win32 Linux Mac">
+		<AddinFile>MarkdownViewer/bin/Debug/MarkdownViewer.dll</AddinFile>
+		<BuildFile>MarkdownViewer.sln</BuildFile>
+		<BuildConfiguration>Debug</BuildConfiguration>
+	</Project>
+</AddinProject>
