@@ -7,10 +7,6 @@
 		description="Markdown Viewer is used to view output of files with *.md/*.markdown extension like e.g. README.md."
 		category="IDE extensions"
 		version="1.0.0.2">
-	<Dependencies>
-		<Addin id="::MonoDevelop.Core" version="5.0" />
-		<Addin id="::MonoDevelop.Ide" version="5.0" />
-	</Dependencies>
 	<Extension path = "/MonoDevelop/Ide/StartupHandlers">
 		<Class class = "MarkdownViewer.SubviewAttachmentHandler"/>
 	</Extension>
